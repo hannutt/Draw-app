@@ -8,3 +8,4 @@ The program has input fields for length and width and drawing is done by pressin
 "Draw rectangle" -buttons. "Clear display" -button remove patterns from the Pygame screen.
 
 To close the Pygame screen, select the close function from the program drop-down menu
+ 
